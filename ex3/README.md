@@ -11,7 +11,7 @@ What is the result of the call?
 Get your own API key https://www.omdbapi.com/apikey.aspx
 
 TODO:
-- For each movie create a div in the HTML and display title, year and poster.
+- For each movie create a div in the HTML and display title, year and poster. 
 
 # EXTRA
 
